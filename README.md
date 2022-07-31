@@ -8,7 +8,7 @@ Utilize data from LendingClub, a peer-to-peer lending services company, to predi
 
 ## Results:
 
-To determine the results, we will look at the Balanced Accuracy Score (BAS) of each model, as well as the Imbalanced Classification Report (ICR) from each model, primarily focusing on the F-score(f1 column) of the total/average, and the high-risk row, as we are primarily focused on detecting high credit risk individuals.
+To determine the results, we will look at the accuracy score of each model, as well as the imbalanced classification report from each model, primarily focusing on the F-score of the total/average, and the high-risk row, as we are primarily focused on detecting high credit risk individuals.
 
 - **Balanced Random Forest Classifier** : 
 
